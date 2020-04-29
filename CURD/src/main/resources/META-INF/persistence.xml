@@ -10,8 +10,8 @@
          <properties>
             <property name="javax.persistence.jdbc.driver" value="oracle.jdbc.OracleDriver"/>
             <property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@localhost:1521:xe"/>
-            <property name="javax.persistence.jdbc.user" value="anu3211"/>
-            <property name="javax.persistence.jdbc.password" value="password12345"/>
+            <property name="javax.persistence.jdbc.user" value="ankit0695"/>
+            <property name="javax.persistence.jdbc.password" value="Ankit@06"/>
             <property name="javax.persistence.schema-generation.database.action" value="create"/>
         </properties>
     </persistence-unit>
